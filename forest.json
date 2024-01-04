@@ -59,7 +59,7 @@
       "#79a886"
       ],
       "CHANNELS_DEFAULT": [
-      "#9399b2"
+      "#79a886"
       ],
       "CHAT_BACKGROUND": [
       "#141a18"
@@ -71,10 +71,10 @@
       "#bac2de"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#eba0ac"
+      "#678c64"
       ],
       "INTERACTIVE_HOVER": [
-      "#f38ba8"
+      "#678c64"
       ],
       "INTERACTIVE_MUTED": [
       "#585b70"
