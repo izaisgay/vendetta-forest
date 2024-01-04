@@ -77,13 +77,13 @@
       "#678c64"
       ],
       "INTERACTIVE_MUTED": [
-      "#585b70"
+      "#4d674b"
       ],
       "INTERACTIVE_NORMAL": [
       "#9399b2"
       ],
       "MENTION_BACKGROUND": [
-      "#fab387"
+      "#79a886"
       ],
       "MENTION_FOREGROUND": [
       "#181825"
@@ -180,10 +180,10 @@
           "ic_new_pins":"#f38ba8",
           "StatusStreaming": "#cba6f7",
           "StatusMobileOnline": "#a6e3a1",
-          "StatusIdle": "#f9e2af",
+          "StatusIdle": "#fcb90f",
           "StatusDND": "#f38ba8",
           "StatusOffline": "#9399b2",
-          "StatusOnline": "#a6e3a1"
+          "StatusOnline": "#678c64"
  }
 },
     "spec": 2
