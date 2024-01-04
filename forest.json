@@ -14,7 +14,7 @@
       "#1f2c27"
       ],   
       "BACKGROUND_MENTIONED_HOVER": [   
-      "#6c7086"
+      "#1f2c27"
       ],
       "BACKGROUND_MESSAGE_HIGHLIGHT": [     
       "#79a886"
@@ -35,13 +35,13 @@
       "#233129"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-      "#181825"
+      "#233129"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
       "#11111b"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-      "#313244"
+      "#1f2c27"
       ],
       "BACKGROUND_PRIMARY": [
       "#141a18"
